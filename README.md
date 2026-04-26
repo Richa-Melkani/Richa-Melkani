@@ -59,9 +59,9 @@ Git | GitHub | VS Code
 
 ---
 
-## 📫 Connect with Me
-* LinkedIn:linkedin.com/in/richa-melkani
-* Email:richamelkani73@gmail.com
+## 📫 Connect with me
+- [LinkedIn](https://linkedin.com/in/richa-melkani)
+- [GitHub](https://github.com/richa-melkani)
 
 ---
 
