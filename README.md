@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**
-Python | C | JavaScript
+Python | C | C++
 
 **Core Skills:**
 Data Structures & Algorithms | Problem Solving | OOP
@@ -60,8 +60,8 @@ Git | GitHub | VS Code
 ---
 
 ## 📫 Connect with Me
-
-* LinkedIn: (add your link here)
+*Email:richamelkani73@gmail.com
+* LinkedIn:linkedin.com/in/richa-melkani
 
 ---
 
