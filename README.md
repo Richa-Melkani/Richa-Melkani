@@ -60,8 +60,8 @@ Git | GitHub | VS Code
 ---
 
 ## 📫 Connect with Me
-*Email:richamelkani73@gmail.com
 * LinkedIn:linkedin.com/in/richa-melkani
+* Email:richamelkani73@gmail.com
 
 ---
 
