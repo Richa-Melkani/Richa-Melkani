@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Richa Melkani</h1>
 
 <h3 align="center">
-MCA (AI & DS) Student • Aspiring Software Developer • Python Enthusiast • AI & ML Learner
+MCA (AI & DS) Student
+</h3>
+<h3 align="center">
+Aspiring Software Developer | Python Enthusiast | AI & ML Learner
 </h3>
 
 <p align="center">
@@ -50,7 +53,7 @@ MCA (AI & DS) Student • Aspiring Software Developer • Python Enthusiast • 
 
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
 <p>
 
@@ -70,7 +73,7 @@ MCA (AI & DS) Student • Aspiring Software Developer • Python Enthusiast • 
 
 </p>
 
-### ⚙️ Frameworks
+### ⚙️ Framework
 
 <p>
 
@@ -100,7 +103,7 @@ MCA (AI & DS) Student • Aspiring Software Developer • Python Enthusiast • 
 <h2>
 🏥 Hospital Queue Management System
 <a href="https://github.com/Richa-Melkani/Hospital_Queue_Management_System-PBL-DSA">
-<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repository-0D6EFD?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://web-production-1f745.up.railway.app/">
@@ -108,7 +111,7 @@ MCA (AI & DS) Student • Aspiring Software Developer • Python Enthusiast • 
 </a>
 </h2>
 
-**Tech Stack:** Python • Flask • MySQL • Data Structures
+**Tech Stack:** Python | Flask | MySQL | Data Structures
 
 - Developed a Hospital Queue Management System with a responsive web interface
 - Implemented **Priority Queue** for intelligent patient scheduling based on severity
@@ -121,7 +124,7 @@ MCA (AI & DS) Student • Aspiring Software Developer • Python Enthusiast • 
 <h2>
 🩺 Diabetes Risk Analyzer
 <a href="https://github.com/Richa-Melkani/diabetes-risk-analyzer">
-<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repository-0D6EFD?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://web-production-8418b4.up.railway.app/">
@@ -129,7 +132,7 @@ MCA (AI & DS) Student • Aspiring Software Developer • Python Enthusiast • 
 </a>
 </h2>
 
-**Tech Stack:** Python • Flask • Machine Learning
+**Tech Stack:** Python | Flask | Machine Learning
 
 - Built a Machine Learning-based web application for diabetes risk prediction
 - Trained a **Random Forest** classification model using healthcare data
@@ -139,13 +142,13 @@ MCA (AI & DS) Student • Aspiring Software Developer • Python Enthusiast • 
 ---
 
 <h2>
-📄 Resume Skill Verification System <sub>🚧 Work in Progress</sub>
+📄 Resume Skill Verification System 🚧 Work in Progress
 <a href="https://github.com/Richa-Melkani/resume-skill-verification-system">
-<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repository-0D6EFD?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </h2>
 
-**Tech Stack:** Python • Flask
+**Tech Stack:** Python | Flask
 
 - 🚧 Currently under development
 - Resume upload and parsing functionality in progress
@@ -185,7 +188,7 @@ MCA (AI & DS) Student • Aspiring Software Developer • Python Enthusiast • 
 </a>
 
 <a href="https://github.com/Richa-Melkani">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
