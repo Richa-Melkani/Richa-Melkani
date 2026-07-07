@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richa Melkani</h1>
 
 <h3 align="center">
-MCA (AI & Data Science) Student • Aspiring Software Developer • Python Enthusiast • AI & ML Learner
+MCA (AI & DS) Student • Aspiring Software Developer • Python Enthusiast • AI & ML Learner
 </h3>
 
 <p align="center">
