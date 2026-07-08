@@ -29,7 +29,7 @@ Aspiring Software Developer | Python Enthusiast | AI & ML Learner
 
 # 👩‍💻 About Me
 
-- 🎓 Pursuing **MCA (AI & Data Science)**
+- 🎓 Pursuing **MCA (AI & DS)**
 - 💻 Passionate about **Software Development**, **Artificial Intelligence**, and solving real-world problems
 - 🚀 Building practical software projects using **Python**, **Flask**, and **MySQL**
 - 🌱 Continuously improving **Data Structures & Algorithms**
@@ -103,11 +103,11 @@ Aspiring Software Developer | Python Enthusiast | AI & ML Learner
 <h2>
 🏥 Hospital Queue Management System
 <a href="https://github.com/Richa-Melkani/Hospital_Queue_Management_System-PBL-DSA">
-<img src="https://img.shields.io/badge/Repository-0D6EFD?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source-0D6EFD?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://web-production-1f745.up.railway.app/">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Demo-00C853?style=flat-square&logo=google-chrome&logoColor=white"/>
 </a>
 </h2>
 
@@ -124,11 +124,11 @@ Aspiring Software Developer | Python Enthusiast | AI & ML Learner
 <h2>
 🩺 Diabetes Risk Analyzer
 <a href="https://github.com/Richa-Melkani/diabetes-risk-analyzer">
-<img src="https://img.shields.io/badge/Repository-0D6EFD?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source-0D6EFD?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://web-production-8418b4.up.railway.app/">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Demo-00C853?style=flat-square&logo=google-chrome&logoColor=white"/>
 </a>
 </h2>
 
@@ -144,7 +144,7 @@ Aspiring Software Developer | Python Enthusiast | AI & ML Learner
 <h2>
 📄 Resume Skill Verification System 🚧 Work in Progress
 <a href="https://github.com/Richa-Melkani/resume-skill-verification-system">
-<img src="https://img.shields.io/badge/Repository-0D6EFD?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source-0D6EFD?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </h2>
 
