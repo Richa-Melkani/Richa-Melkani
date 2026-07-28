@@ -159,8 +159,8 @@ Aspiring Software Developer | Python Enthusiast | AI & ML Learner
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Richa-Melkani&theme=tokyonight&hide_border=true&v=1"/>
-  <!-- <img src="https://streak-stats.demolab.com?user=Richa-Melkani&theme=tokyonight&hide_border=true&v=2"/> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=Richa-Melkani&theme=tokyonight&hide_border=true&v=1"/> -->
+  <img src="https://streak-stats.demolab.com?user=Richa-Melkani&theme=tokyonight&hide_border=true&v=2"/>
   <!-- <img src="https://streak-stats.demolab.com?user=Richa-Melkani&theme=tokyonight&hide_border=true&v=3"/> -->
 </p>
 
