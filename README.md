@@ -160,8 +160,8 @@ Aspiring Software Developer | Python Enthusiast | AI & ML Learner
 
 <p align="center">
   <!-- <img src="https://streak-stats.demolab.com?user=Richa-Melkani&theme=tokyonight&hide_border=true&v=1"/> -->
-  <img src="https://streak-stats.demolab.com?user=Richa-Melkani&theme=tokyonight&hide_border=true&v=2"/>
-  <!-- <img src="https://streak-stats.demolab.com?user=Richa-Melkani&theme=tokyonight&hide_border=true&v=3"/> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=Richa-Melkani&theme=tokyonight&hide_border=true&v=2"/> -->
+  <img src="https://streak-stats.demolab.com?user=Richa-Melkani&theme=tokyonight&hide_border=true&v=3"/>
 </p>
 
 ---
