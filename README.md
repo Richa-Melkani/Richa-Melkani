@@ -165,7 +165,14 @@ Aspiring Software Developer | Python Enthusiast | AI & ML Learner
 </p>
 
 ---
+## 🛠️ Languages
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Richa-Melkani&theme=tokyonight" alt="Languages" />
+</p>
+
+
+---
 # 🎯 Current Focus
 
 - 🚀 Solving Data Structures & Algorithms problems consistently
